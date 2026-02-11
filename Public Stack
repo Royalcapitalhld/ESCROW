@@ -1,0 +1,10 @@
+Client / Merchant
+        ↓
+Public Escrow API
+        ↓
+Escrow Ledger
+        ↓
+Settlement Rails
+(Fiat bank + XRPL/Stellar)
+        ↓
+Private Chain (proof only, invisible publicly)
